@@ -9,4 +9,4 @@
 - Built a React app using useState, useEffect, Routes, Route, Link, and useParams
 - Fetched and displayed data from an API
 - Implemented nested routing for job details
-- The best tailwind css I've done in my life so far
+- Designed a clean and responsive UI using Tailwind CSS
