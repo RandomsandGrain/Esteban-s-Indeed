@@ -6,7 +6,8 @@
 [Click here to view the website](https://esteban-s-indeed.vercel.app/)
 
 ## What I Did
-- Built a React app using useState, useEffect, Routes, Route, Link, and useParams
-- Fetched and displayed data from an API
-- Implemented nested routing for job details
-- Designed a clean and responsive UI using Tailwind CSS
+- Built a React + TypeScript job board with API integration
+- Fetched and rendered remote jobs dynamically from an external API
+- Implemented routing for detailed job pages using React Router
+- Added job status tracking and custom job creation features
+- Used Tailwind CSS for a responsive and clean UI
