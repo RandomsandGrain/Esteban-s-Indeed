@@ -1,6 +1,6 @@
 # Esteban's Indeed
 
-![Preview](/Capture.PNG)
+![Preview](./public/Capture.PNG)
 
 ### React job board app that fetches and displays remote jobs with routing for detailed job views
 
