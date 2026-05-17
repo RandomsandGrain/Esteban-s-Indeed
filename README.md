@@ -1,4 +1,4 @@
-# Esteban's JobTracker2.0
+# Esteban's Indeed
 
 ### React job board app that fetches and displays remote jobs with routing for detailed job views
 
@@ -6,8 +6,8 @@
 [Click here to view the website](https://esteban-s-indeed.vercel.app/)
 
 ## What I Did
-- Built a React + TypeScript job board with API integration
-- Fetched and rendered remote jobs dynamically from an external API
-- Implemented routing for detailed job pages using React Router
-- Added job status tracking and custom job creation features
-- Used Tailwind CSS for a responsive and clean UI
+- Built a React job board app using React Hooks (useState, useEffect)
+- Fetched and displayed remote jobs from an external API
+- Implemented dynamic routing for job detail pages using React Router
+- Used useParams for dynamic job routing
+- Designed a clean and responsive UI using Tailwind CSS
